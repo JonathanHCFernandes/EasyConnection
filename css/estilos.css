@@ -1,0 +1,243 @@
+/* Pagina Inicial */
+/*------------------------------------------------------------------------------------------------------------*/
+
+.logotipo {
+    padding: 10;
+    width: 450;
+    margin-top: -126px;
+    margin-left: 50px;
+}
+/*------------------------------------------------------------------------------------------------------------*/
+
+/* Redes Sociais */
+
+/*.rotacao1 {}
+.rotacao2 {}
+.rotacao3 {}
+.rotacao4 {}
+.rotacao5 {}
+.rotacao6 {}*/
+
+
+/*------------------------------------------------------------------------------------------------------------*/
+
+/* Redes Sociais */
+.whats {
+    width: 56px;
+    margin-left: 983px;
+    
+}
+.insta {
+    width: 56px;
+    margin-left: 1056px;
+    margin-top: -56px;
+    
+}
+.face {
+    width: 56px;
+    margin-left: 1090px;
+    margin-top: -56px;
+    
+}
+.linkedin {
+    width: 56px;
+    margin-left: 1020px;
+    margin-top: -56px;
+   
+}
+.carrinho{
+    width: 60px;
+    margin-left: 1198px;
+    margin-top: -60px;
+    margin-bottom: 82px
+}
+/*------------------------------------------------------------------------------------------------------------*/
+
+/*Menu / Redes Sociais*/
+
+.redeSocial {
+    display: flex;
+    flex-wrap: wrap;
+    width: 56px;    
+    margin-top: -282px;
+}
+.menu {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.servicos {
+    margin-left: 552px;
+    margin-top: -243px;
+    margin-bottom: 0;
+    width: 118px;
+    height: 249px;
+    text-decoration: none;
+    color: black;
+}
+.Planos {
+    margin-left: 675px;
+    margin-top: -249px;
+    text-decoration: none;
+    color: black;
+}
+.contato {
+    margin-left: 863px;
+    margin-top: -249px;
+    text-decoration: none;
+    color: black;
+}
+/*------------------------------------------------------------------------------------------------------------*/
+
+/* Slide Imagens */
+.swiper {
+    width: 600px;
+    height: 300px;
+  }
+
+
+
+/*------------------------------------------------------------------------------------------------------------*/
+
+/* Primeiro texto*/
+.primeiroTitulo {
+    text-align: center;
+    margin-block: 40px;
+    color: RGB(25, 42, 86);
+}
+.tamanhodaletradotitulo {
+    letter-spacing: 2px;
+}
+
+
+/*------------------------------------------------------------------------------------------------------------*/
+
+/* Sobre a Easy Connection */
+
+.sobrenos {
+    margin-left: 188px;
+    width: 563px;
+    height: 801px;
+    object-fit: cover;
+}
+.titulo {
+    font-size: 41px;
+    line-height: 0.96;
+    text-align: center;
+    margin-left: 29px;
+    margin-right: 29px;
+    margin-top: 52px;
+    color:RGB(25, 42, 86)
+}
+.primeiroParagrafo {
+    line-height: 1.7;
+    margin-left: 86px;
+    margin-right: 97px;
+    text-align: inherit;
+}
+.segundoParagrafo {
+    line-height: 1.7;
+    margin-left: 86px;
+    margin-right: 97px;
+    text-align: inherit;
+}
+.essadiv {
+    background-color: #f2f2f2;
+    width: 466px;
+    height: 692px;
+    margin-left: 673px;
+    margin-top: -739px;
+    margin-bottom: 108px;
+    position: absolute;   
+}
+
+
+/*------------------------------------------------------------------------------------------------------------*/
+
+/* Nossos Serviços*/
+
+.nossosServicos {
+    margin-left: 659px;
+    margin-top: 75px;
+    width: 563px;
+    height: 735px
+}
+.divservicos {
+    background-color: #f2f2f2;
+    width: 546px;
+    height: 735px;
+    margin-bottom: 108px;
+    margin-left: 113px;
+    margin-top: -735px;
+    position: absolute;
+}
+.tituloSevicos {
+    text-align: center;
+    font-size: 41px;
+    margin-top: 133px;
+    margin-bottom: 62px;
+    color: RGB(25, 42, 86)
+}
+li {
+    margin-left: 105px;
+    margin-bottom: -4px;
+    line-height: 2.2;
+    font-size: 25px;
+}
+.esseParagrafo {
+    margin-left: 245px;
+    margin-right: 246px;
+    margin-top: -11px;
+    margin-bottom: -11px;
+    line-height: 1.4;
+    text-align: center;
+}
+.demaisparagrafos {
+    text-align: center;
+    margin-bottom: 55px;
+}
+.demaisparagrafos2 {
+    text-align: center;
+    margin-top: -15px;
+}
+
+/*------------------------------------------------------------------------------------------------------------*/
+
+.partedebaixo {
+    background-color: #fafafa;
+    width: 1346px;
+    height: 242px;
+    margin-bottom: -59px;
+    margin-left: -6px;
+    margin-top: 57px;
+    margin-right: -50px;
+    padding-top: 8px;
+}
+
+.um {
+    text-align: center;
+    line-height: 0.99;
+    margin-top: -6px;
+}
+.fonte{
+    font-size: 27px;
+}
+.dois {
+    text-align: center;
+    margin-top: 154px;
+}
+.tres {
+    margin-left: 34px;
+    margin-top: -50px;
+    line-height: 0.4;
+}
+.quatro {
+    margin-top: -70px;
+    line-height: 0.4;
+    margin-left: 1012px;
+    text-align: center;
+}
+.ajuste {
+    text-decoration: none;
+    color: black;
+}
